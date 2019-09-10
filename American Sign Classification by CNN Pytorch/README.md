@@ -7,3 +7,8 @@
 
 
 https://nbviewer.jupyter.org/github/abd-mo/AI-Projects/blob/master/American%20Sign%20Classification%20by%20CNN%20Pytorch/american_sign_classification_by_cnn_pytorch.ipynb
+
+
+data pre-process:
+
+https://nbviewer.jupyter.org/github/abd-mo/AI-Projects/blob/master/American%20Sign%20Classification%20by%20CNN%20Pytorch/2_way_for_data_preprocessing.ipynb
